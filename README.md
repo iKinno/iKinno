@@ -1,8 +1,8 @@
 ## Olá, sou o Leonardo, Analista de Suporte e estudo linguagens de programação!
 
 <div style="display: inline_block; margin-top: 0; padding-top: 0;">
-  <img align="center" alt="Rafa-Js" height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=iKinno&show_icons=true&theme=holi">
-  <img align="center" alt="Rafa-Js" height="180" width="270" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKinno&layout=donut&theme=holi">
+  <img align="center" alt="Rafa-Js" height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=iKinno&show_icons=true&theme=dark">
+  <img align="center" alt="Rafa-Js" height="180" width="270" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKinno&layout=donut&theme=dark">
 </div>
 
 ##
@@ -22,4 +22,4 @@
   <a href="https://www.linkedin.com/in/leonardo-afonso-beck-b4ba9a328" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake_animation](https://github.com/ikinno/ikinno/blob/output/github/contribution-grid-snake.svg)
+
