@@ -1,11 +1,16 @@
 ## Olá, sou o Leonardo, Analista de Suporte e estudo linguagens de programação!
 
+<div style="display: inline_block; margin-top: 0; padding-top: 0;">
+  <img align="center" alt="Rafa-Js" height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=holi">
+  <img align="center" alt="Rafa-Js" height="180" width="270" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKinno&layout=donut&theme=holi">
+</div>
 
+##
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<div style="display: inline_block">
+  <img align="center" alt="Rafa-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Rafa-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
 ##
