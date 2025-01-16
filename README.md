@@ -21,3 +21,5 @@
   <a href = "mailto:lkinno.96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-afonso-beck-b4ba9a328" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+![Snake_animation](https://github.com/artur-debby/ikinno/blob/output/github/contribution-grid-snake.svg)
